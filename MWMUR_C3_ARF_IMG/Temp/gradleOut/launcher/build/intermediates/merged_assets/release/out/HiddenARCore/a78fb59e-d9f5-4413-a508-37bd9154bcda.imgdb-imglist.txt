@@ -1,0 +1,3 @@
+905d879b30cc44a69347d99c01e74d0a|Assets/Target_imgs+libs/target_samples_USLetter_0.jpeg
+213a789fd2a442ed8e10c7c9f40036ec|Assets/Target_imgs+libs/target_samples_USLetter_1.jpg
+597de644c3f84433abaad7540bbb22bd|Assets/Target_imgs+libs/target_samples_USLetter_2.jpg
